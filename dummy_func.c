@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
   }
   else
   {
-    priority = atoi(argv[2]);
+    priority = atoi(argv[2]); 
   }
   
 
